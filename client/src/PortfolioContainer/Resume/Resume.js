@@ -99,7 +99,7 @@ const Resume = (props) => {
       <ResumeHeading
         heading={"Jaypee University of Engineering AND Technology, Guna"}
         subHeading={"BACHELOR OF TECHNOLOGY"}
-        subHeadingg={"CGPA-8.8"}
+        subHeadingg={"CGPA-8.7"}
         fromDate={"2019"}
         toDate={"2023"}
       />
@@ -107,7 +107,7 @@ const Resume = (props) => {
       <ResumeHeading
         heading={"RNS World School, Jhansi"}
         subHeading={"XII Standard"}
-        subHeadingg={"Percentage-73%"}
+        subHeadingg={"Percentage-73.2%"}
         fromDate={"2018"}
         toDate={"2019"}
       />

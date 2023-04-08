@@ -18,12 +18,13 @@ export default function AboutMe(props) {
     highlights: {
       bullets: [
         "Programming Skills- C, C++",
-        "Data Structure And Algorithms",
-        "Operating System",
+        "Data Structure And Algorithms, OOPS Concept",
         "Problem Solving",
-        "Html, CSS, JavaScript",
+        "Database Manangement System",
+        "Operating System",
+        "Html, CSS, JavaScript BootStrap",
         "MongoDB, NodeJs, ExpressJs",
-        "ReactJs Redux",
+        "ReactJs, Redux",
       ],
       heading: "Here are a Few Highlights:",
     },
